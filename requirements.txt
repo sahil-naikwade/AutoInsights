@@ -1,0 +1,17 @@
+altair
+flask
+flask-cors
+joblib
+lightgbm
+matplotlib
+mysql-connector-python
+numpy
+pandas
+pandas-profiling
+plotly
+pycaret
+scikit-learn
+seaborn
+sqlalchemy
+streamlit
+xgboost

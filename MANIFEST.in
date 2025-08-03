@@ -1,0 +1,22 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CONTRIBUTING.md
+include env.example
+recursive-include data *
+recursive-include template *
+recursive-include utils *
+recursive-include processor *
+recursive-include scripts *
+recursive-include Frontend *
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude *.pyd
+global-exclude __pycache__
+global-exclude *.so
+global-exclude .DS_Store
+global-exclude .git*
+global-exclude .env*
+global-exclude *.log
+global-exclude *.tmp
+global-exclude *.bak 
